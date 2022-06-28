@@ -1,0 +1,17 @@
+Número de orden: 1
+
+Productos:
+
+	Nombre: Pelota Adidas
+	Precio: $3000.7
+	ID: 1BZ6HBITBB3
+
+	Nombre: Banda para el pelo
+	Precio: $320.0
+	ID: V82YWI5DW37
+
+	Nombre: Zapatillas Nike
+	Precio: $7000.0
+	ID: AT432TFR671
+
+Total: $10320.7

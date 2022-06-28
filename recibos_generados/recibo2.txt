@@ -1,0 +1,13 @@
+Número de orden: 2
+
+Productos:
+
+	Nombre: Remera Argentina
+	Precio: $1400.1
+	ID: 3IO70MVHY5Z
+
+	Nombre: Botines Puma
+	Precio: $8500.4
+	ID: AY1G767SIKC
+
+Total: $9900.5

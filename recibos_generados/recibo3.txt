@@ -1,0 +1,21 @@
+Número de orden: 3
+
+Productos:
+
+	Nombre: Casco de motocross
+	Precio: $4634.4
+	ID: 6UQHAKT3JUQ
+
+	Nombre: Rueda para bicicleta de montaña
+	Precio: $12890.75
+	ID: J2AWITQQSWS
+
+	Nombre: Pelota de basketball
+	Precio: $1200.0
+	ID: WOPYC9HVZ7J
+
+	Nombre: Pack 2 palos de ski
+	Precio: $1964.55
+	ID: ZJ6L532ZP6U
+
+Total: $20689.7
